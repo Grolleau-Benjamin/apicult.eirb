@@ -7,6 +7,14 @@ interface Actu {
 
 const actuList: Actu[] = [
     {
+        date: "17 Septembre 2025",
+        title: "Essaimage des ruches",
+        content: `À la suite d’une forte pression de frelons, nos deux essaims ont choisi de quitter les ruches 🐝. L’un d’eux a pu être récupéré à proximité immédiate, mais le second est malheureusement perdu. 
+
+Ce phénomène, bien que naturel dans la vie d’une colonie, marque la fin de la saison apicole pour cette année ❄️. Nos ruches resteront donc vides durant l’hiver, mais nous nous attendons à un retour dynamique des abeilles dès février 🌸.`,
+        images: ["/posts/2025_09_17/1.jpg", "/posts/2025_09_17/2.jpg"],
+    },
+    {
         date: "Septembre 2025",
         title: "Récolte de l’Enseirb-Matmielca",
         content: `La récolte 2025 s’est faite le 7 septembre au matin, à peine 5 mois après l’installation des ruches 🐝. La veille, l’Abeille Talencaise était venue poser les chasses-abeilles, et dès le lendemain matin, 8h, on s’est retrouvés pour sortir les réhausses et les cadres en sécurité !
